@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 16 20:32:27 2017
 
-@author: 望
+@author: Jingwang Li
 """
 import requests
 import re
